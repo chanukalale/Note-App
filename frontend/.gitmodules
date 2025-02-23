@@ -1,0 +1,3 @@
+[submodule "Note-App"]
+	path = Note-App
+	url = https://github.com/chanukalale/Note-App.git
